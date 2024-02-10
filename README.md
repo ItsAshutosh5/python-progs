@@ -1,4 +1,4 @@
 # python-progs
 All python programs
 <br>
-Author: Ashutosh Ranjan tripathi
+Author: Ashutosh Ranjan Tripathi
